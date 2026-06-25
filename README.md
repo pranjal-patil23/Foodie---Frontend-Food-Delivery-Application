@@ -52,19 +52,23 @@ Foodie is a modern and responsive food ordering web application built using HTML
 
 ### 🏠 Home Page
 
-![Home](assets/screenshots/home.png)
+![Home]<img width="1457" height="606" alt="image" src="https://github.com/user-attachments/assets/e9458ecb-3153-41ef-859e-d7490a9697ce" />
+
 
 ### 🍕 Menu Section
 
-![Menu](assets/screenshots/menu.png)
+![Menu]<img width="1472" height="850" alt="image" src="https://github.com/user-attachments/assets/24dad409-4a3a-448b-879f-dd8d426a252a" />
+
 
 ### 🛒 Shopping Cart
 
-![Cart](assets/screenshots/cart.png)
+![Cart]<img width="1473" height="851" alt="image" src="https://github.com/user-attachments/assets/0766498e-6b74-4632-bfbd-1dc746a13c7f" />
+
 
 ### 🔐 Login Page
 
-![Login](assets/screenshots/login.png)
+![Login]<img width="1478" height="857" alt="image" src="https://github.com/user-attachments/assets/0c8fbcc8-53a1-406e-b281-d4381843aa2e" />
+
 
 ---
 
@@ -118,27 +122,7 @@ Foodie/
 
 ---
 
-## 💻 Installation
 
-Clone the repository
-
-```bash
-git clone https://github.com/yourusername/foodie.git
-```
-
-Navigate to project folder
-
-```bash
-cd foodie
-```
-
-Run the project
-
-```bash
-Open index.html in your browser
-```
-
----
 
 ## 🌟 Project Highlights
 
